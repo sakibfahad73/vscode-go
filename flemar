@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="warp">
+                <div class="logo">
+                    <h1>Flemar</h1>
+                </div>
+                <div class="menus">
+                    <div class="feature">
+                        <p>feature</p>
+                    </div>
+                    <div class="Event">
+                        <p>Event</p>
+                    </div>
+                    <div class="Offer">
+                        <p>offer</p>
+                    </div>
+                    <div class="Reffar">
+                        <p>reffar</p>
+                    </div> 
+                    <div class="Contact">
+                        <p>contact</p>
+                    </div> 
+                </div>
+                <div class="btn-part">
+                    <div class="loging">
+                        <button class="loging-btn">
+                            Log ing
+                        </button>
+                    </div>
+                    <div class="signup">
+                        <button class="signup-btn">
+                            Sign up
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+
+        <section class="one">
+            <div class="left-part">
+                <div class="head-text">
+                    <h1>
+                        This is my first project ...
+                    </h1>
+                </div>
+                <div class="block-text">
+                    <p>
+
+                    </p>
+                </div>
+                <div class="btn">
+                    <button class="start-btn">get Started For Free</button>
+                </div>
+                <div class="right-wrap">
+                    <div class="img">
+
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        </section>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
